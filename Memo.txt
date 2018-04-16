@@ -1,0 +1,27 @@
+*******************************
+　git hun へのPush方法
+*******************************
+
+　　ID   = kyoken1
+　　Pass = 999sakai
+
+
+
+(1) git bash を起動
+
+$ cd /c/work/Git
+
+
+
+$ git add Memo.txt
+
+$ git commit -m "XXXXX"
+
+$ git remote add origin https://github.com/kyoken1/1.git
+
+$ git push -u origin master
+
+
+以上
+
+
